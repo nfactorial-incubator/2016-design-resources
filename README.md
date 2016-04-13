@@ -6,7 +6,7 @@ If you did everything correctly, you should have [Sketch](https://www.sketchapp.
 
 ## Icons
 
-To make life easier for you, we put together a collection of cool line icons that you can you in your designs. The icon sets are in the form of iconjars, so you will need the app to use them. To download and install the sets, type the following command in your terminal:
+To make life easier for you, we put together a collection of cool line icons that you can use in your designs. The icon sets are in the form of iconjars, so you will need the app to use them. To download and install the sets, type the following command in your terminal:
 
 ```bash
 $ curl -fsSL https://raw.githubusercontent.com/N17R/design-resources/master/install-icons.sh | sh
