@@ -16,6 +16,30 @@ When the script is finished, you should see about two dozen icon sets in your Ic
 
 In most cases, you will also need to use external resources to find the icons you need. We recommend [FlatIcon](http://www.flaticon.com/). The most convenient way to use it is to download their free app [from Mac App Store](https://itunes.apple.com/app/flaticon/id1042588206).
 
+We also suggest you to bring together 3 to 4 fellow designers and purchase a license to use an expanded collection of premium icons from [Streamline](http://www.streamlineicons.com/) or [IconsMind](https://www.iconsmind.com/pricing/).
+
+## Sketch plugins
+
+We recommend you to download and install these Sketch plugins.
+
+### 1. [Craft](https://labs.invisionapp.com/craft)
+
+Just enter your email in the provided form, follow the link in the received email, and install the plugin with the downloaded installer.
+
+### 2. [Zeplin](https://zeplin.io/)
+
+First, [sign up](https://app.zeplin.io/register.html) on their website. Then download their mac app by typing the following command in your terminal:
+
+```bash
+$ brew cask install --appdir="/Applications" zeplin
+```
+
+The Sketch plugin will be installed when you first launch the app.
+
+### 3. [Fluid](https://github.com/matt-curtis/Fluid-for-Sketch)
+
+Download the [`.zip`](https://github.com/matt-curtis/Fluid-for-Sketch/releases/download/v1.7.3/Fluid.sketchplugin.zip), extract it, and open the `.sketchplugin` file.
+
 ## UI Kits
 
 Here are some good free Sketch UI Kits we collected, that you can use to help speed up your design process.
