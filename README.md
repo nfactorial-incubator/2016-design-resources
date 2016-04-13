@@ -42,6 +42,12 @@ Download it [here](https://drive.google.com/open?id=0B8DNb95GQj5KdzlJRUJLWEpWRk0
 
 Download it [here](https://drive.google.com/open?id=0B8DNb95GQj5Kd1Q2NmJXRVprZmc).
 
+### Flow iOS Wireframe Kit by Vineet Kumar
+
+![](previews/flow-ios-wireframe-kit-by-vineet-kumar.jpg)
+
+Download it [here](https://drive.google.com/open?id=0B8DNb95GQj5KcGZvX0lFVFUxVWM).
+
 ---
 
 Following kits feature elements that you can use directly in your designs.
@@ -75,6 +81,18 @@ Download it [here](https://drive.google.com/open?id=0B8DNb95GQj5KQUR0ZWNUSTBFOTg
 ![](previews/medium-by-andrea-montini-preview.jpg)
 
 Download it [here](https://drive.google.com/open?id=0B8DNb95GQj5KZm9GY2V3OVhHMFU).
+
+### Tilt UI Kit by Jared Lodwick
+
+![](previews/tilt-ui-kit-by-jared-lodwick.jpg)
+
+Download it [here](https://drive.google.com/open?id=0B8DNb95GQj5KOEVqd0FOdWRtamM).
+
+### News App UI Kit by Konrad Marzec
+
+![](previews/news-app-ui-kit-by-konrad-marzec.jpg)
+
+Download it [here](https://drive.google.com/open?id=0B8DNb95GQj5KQ3hERTBWMlJ0MDg).
 
 ### NOW by Invision
 
@@ -123,3 +141,9 @@ Download it [here](https://drive.google.com/open?id=0B8DNb95GQj5KRHhWa0FfS3hXSFk
 ![](previews/travel-ui-by-five-agency-preview.jpg)
 
 Download it [here](https://drive.google.com/open?id=0B8DNb95GQj5KakpBNzJsT29nazA).
+
+### Pantry Zen Grocery App Concept by Adhrian Putra
+
+![](previews/pantry-zen-grocery-app-concept-by-adhrian-putra-preview.jpg)
+
+Download it [here](https://drive.google.com/open?id=0B8DNb95GQj5KMWxnQU9YdG5oVjQ).
