@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Download the archive with icons.
-curl -fL https://drive.google.com/uc?export=download&id=0B8DNb95GQj5KZHdXWmVyUDlwd1E
+curl -fLO https://drive.google.com/uc?export=download&id=0B8DNb95GQj5KZHdXWmVyUDlwd1E
 
 # Unzip and delete the archive.
 unzip icons.zip && rm icons.zip
