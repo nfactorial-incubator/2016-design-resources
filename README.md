@@ -4,6 +4,18 @@ Before you go any further, make sure that you completed the [setup guide](https:
 
 If you did everything correctly, you should have [Sketch](https://www.sketchapp.com/) and [Iconjar](http://geticonjar.com/) apps installed. If not, please go back and review or call a mentor.
 
+## Icons
+
+To make life easier for you, we put together a collection of cool line icons that you can you in your designs. The icon sets are in the form of iconjars, so you will need the app to use them. To download and install the sets, type the following command in your terminal:
+
+```bash
+$ curl -fsSL https://raw.githubusercontent.com/N17R/design-resources/master/install-icons.sh | sh
+```
+
+When the script is finished, you should see about two dozen icon sets in your Iconjar left sidebar.
+
+In most cases, you will also need to use external resources to find the icons you need. We recommend [FlatIcon](http://www.flaticon.com/). The most convenient way to use it is to download their free app [from Mac App Store](https://itunes.apple.com/app/flaticon/id1042588206).
+
 ## UI Kits
 
 Here are some good free Sketch UI Kits we collected, that you can use to help speed up your design process.
