@@ -171,3 +171,12 @@ Download it [here](https://drive.google.com/open?id=0B8DNb95GQj5KakpBNzJsT29nazA
 ![](previews/pantry-zen-grocery-app-concept-by-adhrian-putra-preview.jpg)
 
 Download it [here](https://drive.google.com/open?id=0B8DNb95GQj5KMWxnQU9YdG5oVjQ).
+
+---
+
+There are of course more Sketch resources available out there. If you're interested, you can bookmark these great websites:
+- [Sketch App Sources](http://www.sketchappsources.com/tag/ios.html)
+- [FreebiesBug](http://freebiesbug.com/sketch-freebies/)
+- [Sketch Repo](https://sketchrepo.com/tag/free-sketch-ui-kits/)
+
+And if you're willing to spend some money, the best place to get excellent design resources for Sketch is [UI8](https://ui8.net/).
